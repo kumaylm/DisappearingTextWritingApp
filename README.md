@@ -1,5 +1,5 @@
 # Disappearing Text Writing App
-An online writing app where if you stop typing, your work will disappear.
+An online writing app where your text disappears if you stop typing.
 
 ## Language Implemented
 Python
